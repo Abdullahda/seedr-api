@@ -139,3 +139,5 @@ Contact me anywhere, just visit [my portfolio](https://theabbie.github.io)
 
 This project is licensed under MIT License, See [LICENSE](/LICENSE) for more information
 
+[![Deplot to heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/theabbie/seedr-api
+
